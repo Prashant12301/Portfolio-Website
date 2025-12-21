@@ -39,7 +39,7 @@ import GoGreenLogo from './assets/company_logo/green.png';
 
 // Education Section Logo's
 import NitJamshedpurLogo from './assets/education_logo/NitJamshedpur.png';
-import graduationLogo from './assets/education_logo/graduation.png';
+import graduationLogo from './assets/education_logo/Graduation.png';
 
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/github_det.png';
@@ -49,8 +49,7 @@ import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
 import webverLogo from './assets/work_logo/web_dig.png';
 import cmLogo from './assets/work_logo/cm.png';
-import imagesearchLogo from './assets/work_logo/image_search.png';
-import removebgLogo from './assets/work_logo/remove_bg.png';
+
 
 
 export const SkillsInfo = [
