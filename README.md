@@ -4,7 +4,7 @@ A modern, responsive, and animated portfolio website built using **React.js** an
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://prashantyadav.vercel.app)
+🔗 [View Portfolio Live](https://prashantyadav.vercel.app).
 
 ## 🛠️ Tech Stack
 
